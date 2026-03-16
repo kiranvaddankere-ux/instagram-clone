@@ -1,0 +1,12 @@
+instagram-clone/
+│
+├── server.js
+├── package.json
+├── models/
+│   ├── User.js
+│   └── Post.js
+├── public/
+│   ├── index.html
+│   ├── style.css
+│   └── app.js
+└── uploads/       (will store uploaded images)
